@@ -1,20 +1,20 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "shortname": "CuratedStack",
-  "description": "Collection of free design tools and resources for makers, developers and designers",
-  "contact_link": "https://www.sandoche.com/?contact",
+  "title": "ITHard TOP",
+  "shortname": "ITHard TOP",
+  "description": "Во имя Online, Offline и объединяющего их IT. Упрощения процессов и экономии драгоценного времени ради.",
+  "contact_link": "https://t.me/ITHard",
   "google_analytics": "G-QWW9YH0WM9",
-  "hostname": "https://curatedstacktemplate.learn.uno/",
-  "icon": "/images/logos/icon.png",
+  "hostname": "https://elated-dubinsky-ad1344.netlify.app/",
+  "icon": "/images/logos/picsart_01-13-05.25.24.png",
   "floatingPrompt": {
     "width": "500px",
     "left": "unset",
     "bottom": "112px",
-    "name": "CuratedStack Nocode Template",
-    "text": "Hi, do you like CuratedStack Nocode Template ? Don't forget to show your love on Product Hunt 🚀",
-    "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
+    "name": "ITHard TOP",
+    "text": "Во имя Online, Offline и объединяющего их IT. Упрощения процессов и экономии драгоценного времени ради.",
+    "url": "https://t.me/ITHard",
     "right": "32px",
     "disabled": false,
-    "buttonText": "CuratedStack Template on Product Hunt"
+    "buttonText": "Telegram Channel"
   }
 }
